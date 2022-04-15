@@ -6,4 +6,4 @@ As the most common genetic variation responsible for trait and disease, single n
 
 (2) Data transformation - Transform SNP data from character to numeric (Please refer [**data_encoding.ipynb**](data_encoding.ipynb))
 
-(3) Feature selection and Classification - Predict asthma from SNP ([**hybridFS-SVM.ipynb**](hybridFS-SVM.ipynb))
+(3) Feature selection and Classification - Predict asthma from SNP (Please refer [**hybridFS-SVM.ipynb**](hybridFS-SVM.ipynb))
