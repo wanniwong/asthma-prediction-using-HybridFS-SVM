@@ -4,6 +4,6 @@ As the most common genetic variation responsible for trait and disease, single n
 
 (1) Data collection - SNP dataset is collected from Gaudillo et al. (2019) at https://github.com/jdgaudillo/SNP-ML
 
-(2) Data transformation - Transform SNP data from character to numeric (Please refer [**data_encoding.ipynb**](data_encoding.ipynb))
+(2) Data transformation - Transform SNP data from character to numeric (Please refer [**data_transformation.ipynb**](data_transformation.ipynb))
 
 (3) Feature selection and Classification - Predict asthma from SNP (Please refer [**hybridFS-SVM.ipynb**](hybridFS-SVM.ipynb))
